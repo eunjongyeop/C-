@@ -11,15 +11,18 @@ namespace Ex06_Arguments
         static void Main(string[] args)
         {
             // 가변길이 매개변수
+            Console.WriteLine("가변길이 매개변수");
             Console.WriteLine($"Sum() 실행 결과 : {Sum(1,2,3,4,5)}");
             Console.WriteLine($"Sum() 실행 결과 : {Sum(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)}");
 
             // 명명된 매개변수
+            Console.WriteLine("망명된 매개변수");
             PrintProfile(name: "이동윤", phone: "010-1234-5678");
             PrintProfile(phone: "010-1234-5678", name: "이동윤");
             PrintProfile("이동윤", "010-1234-5678");
 
             // 선택적 매개변수(매개변수 초기화)
+            Console.WriteLine("선택적 매개변수");
             PrintProfile("아이유");
         }
 
