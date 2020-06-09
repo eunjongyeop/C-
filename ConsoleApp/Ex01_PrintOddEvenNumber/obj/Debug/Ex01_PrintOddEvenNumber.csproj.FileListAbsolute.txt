@@ -1,0 +1,6 @@
+D:\프로그램 파일\C#\ConsoleApp\Ex01_PrintOddEvenNumber\bin\Debug\Ex01_PrintOddEvenNumber.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Ex01_PrintOddEvenNumber\bin\Debug\Ex01_PrintOddEvenNumber.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex01_PrintOddEvenNumber\bin\Debug\Ex01_PrintOddEvenNumber.pdb
+D:\프로그램 파일\C#\ConsoleApp\Ex01_PrintOddEvenNumber\obj\Debug\Ex01_PrintOddEvenNumber.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex01_PrintOddEvenNumber\obj\Debug\Ex01_PrintOddEvenNumber.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex01_PrintOddEvenNumber\obj\Debug\Ex01_PrintOddEvenNumber.pdb

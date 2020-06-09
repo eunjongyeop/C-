@@ -1,0 +1,6 @@
+D:\프로그램 파일\C#\ConsoleApp\Ex04_Reference\bin\Debug\Ex04_Reference.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Ex04_Reference\bin\Debug\Ex04_Reference.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex04_Reference\bin\Debug\Ex04_Reference.pdb
+D:\프로그램 파일\C#\ConsoleApp\Ex04_Reference\obj\Debug\Ex04_Reference.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex04_Reference\obj\Debug\Ex04_Reference.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex04_Reference\obj\Debug\Ex04_Reference.pdb

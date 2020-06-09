@@ -1,0 +1,6 @@
+D:\프로그램 파일\C#\ConsoleApp\Ex02_DateTime\bin\Debug\Ex02_DateTime.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Ex02_DateTime\bin\Debug\Ex02_DateTime.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex02_DateTime\bin\Debug\Ex02_DateTime.pdb
+D:\프로그램 파일\C#\ConsoleApp\Ex02_DateTime\obj\Debug\Ex02_DateTime.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex02_DateTime\obj\Debug\Ex02_DateTime.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex02_DateTime\obj\Debug\Ex02_DateTime.pdb

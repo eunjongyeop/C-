@@ -1,0 +1,7 @@
+D:\프로그램 파일\C#\ConsoleApp\Ex06_Argument\bin\Debug\Ex06_Argument.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Ex06_Argument\bin\Debug\Ex06_Argument.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex06_Argument\bin\Debug\Ex06_Argument.pdb
+D:\프로그램 파일\C#\ConsoleApp\Ex06_Argument\obj\Debug\Ex06_Argument.csprojAssemblyReference.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex06_Argument\obj\Debug\Ex06_Argument.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex06_Argument\obj\Debug\Ex06_Argument.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex06_Argument\obj\Debug\Ex06_Argument.pdb

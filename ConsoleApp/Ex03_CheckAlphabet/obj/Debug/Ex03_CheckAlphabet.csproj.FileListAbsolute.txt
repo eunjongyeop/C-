@@ -1,0 +1,6 @@
+D:\프로그램 파일\C#\ConsoleApp\Ex03_CheckAlphabet\bin\Debug\Ex03_CheckAlphabet.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Ex03_CheckAlphabet\bin\Debug\Ex03_CheckAlphabet.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex03_CheckAlphabet\bin\Debug\Ex03_CheckAlphabet.pdb
+D:\프로그램 파일\C#\ConsoleApp\Ex03_CheckAlphabet\obj\Debug\Ex03_CheckAlphabet.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex03_CheckAlphabet\obj\Debug\Ex03_CheckAlphabet.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex03_CheckAlphabet\obj\Debug\Ex03_CheckAlphabet.pdb
