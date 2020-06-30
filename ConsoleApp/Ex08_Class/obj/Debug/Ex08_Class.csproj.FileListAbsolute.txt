@@ -1,0 +1,6 @@
+D:\프로그램 파일\C#\ConsoleApp\Ex08_Class\bin\Debug\Ex08_Class.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Ex08_Class\bin\Debug\Ex08_Class.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex08_Class\bin\Debug\Ex08_Class.pdb
+D:\프로그램 파일\C#\ConsoleApp\Ex08_Class\obj\Debug\Ex08_Class.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex08_Class\obj\Debug\Ex08_Class.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex08_Class\obj\Debug\Ex08_Class.pdb
