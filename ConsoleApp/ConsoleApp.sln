@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09_Class_AccessModifiler"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex10_Class_AccessModifiler", "Ex10_Class_AccessModifiler\Ex10_Class_AccessModifiler.csproj", "{7725FB34-53A1-468B-824F-A581BB2794C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex11_IsAs", "Ex11_IsAs\Ex11_IsAs.csproj", "{92A4ED25-CEA7-4095-850A-00A8C26062F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{7725FB34-53A1-468B-824F-A581BB2794C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7725FB34-53A1-468B-824F-A581BB2794C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7725FB34-53A1-468B-824F-A581BB2794C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A4ED25-CEA7-4095-850A-00A8C26062F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A4ED25-CEA7-4095-850A-00A8C26062F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A4ED25-CEA7-4095-850A-00A8C26062F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A4ED25-CEA7-4095-850A-00A8C26062F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
