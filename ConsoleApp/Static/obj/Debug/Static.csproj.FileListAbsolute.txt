@@ -1,0 +1,7 @@
+D:\프로그램 파일\C#\ConsoleApp\Static\obj\Debug\Static.csprojAssemblyReference.cache
+D:\프로그램 파일\C#\ConsoleApp\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Static\bin\Debug\Static.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Static\bin\Debug\Static.exe
+D:\프로그램 파일\C#\ConsoleApp\Static\bin\Debug\Static.pdb
+D:\프로그램 파일\C#\ConsoleApp\Static\obj\Debug\Static.exe
+D:\프로그램 파일\C#\ConsoleApp\Static\obj\Debug\Static.pdb

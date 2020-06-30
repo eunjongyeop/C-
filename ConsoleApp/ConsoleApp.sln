@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05_Overloading", "Ex05_Ov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06_Arguments", "Ex06_Argument\Ex06_Arguments.csproj", "{D9B461DA-D187-4AF1-B675-08AED19E9FBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06-2_Static", "Static\Ex06-2_Static.csproj", "{A7F3E722-EDDA-4DCE-987D-2EBF4AC3116A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07_Class", "Ex07_Class\Ex07_Class.csproj", "{E3F527AC-AA81-465B-99F1-EE95AD75C5BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{D9B461DA-D187-4AF1-B675-08AED19E9FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B461DA-D187-4AF1-B675-08AED19E9FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B461DA-D187-4AF1-B675-08AED19E9FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F3E722-EDDA-4DCE-987D-2EBF4AC3116A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F3E722-EDDA-4DCE-987D-2EBF4AC3116A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F3E722-EDDA-4DCE-987D-2EBF4AC3116A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F3E722-EDDA-4DCE-987D-2EBF4AC3116A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F527AC-AA81-465B-99F1-EE95AD75C5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F527AC-AA81-465B-99F1-EE95AD75C5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F527AC-AA81-465B-99F1-EE95AD75C5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F527AC-AA81-465B-99F1-EE95AD75C5BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
