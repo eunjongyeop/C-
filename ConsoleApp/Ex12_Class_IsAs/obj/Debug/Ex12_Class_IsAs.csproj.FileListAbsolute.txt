@@ -1,0 +1,6 @@
+D:\프로그램 파일\C#\ConsoleApp\Ex12_Class_IsAs\bin\Debug\Ex12_Class_IsAs.exe.config
+D:\프로그램 파일\C#\ConsoleApp\Ex12_Class_IsAs\bin\Debug\Ex12_Class_IsAs.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex12_Class_IsAs\bin\Debug\Ex12_Class_IsAs.pdb
+D:\프로그램 파일\C#\ConsoleApp\Ex12_Class_IsAs\obj\Debug\Ex12_Class_IsAs.csproj.CoreCompileInputs.cache
+D:\프로그램 파일\C#\ConsoleApp\Ex12_Class_IsAs\obj\Debug\Ex12_Class_IsAs.exe
+D:\프로그램 파일\C#\ConsoleApp\Ex12_Class_IsAs\obj\Debug\Ex12_Class_IsAs.pdb
